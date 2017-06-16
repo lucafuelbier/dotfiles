@@ -1,0 +1,20 @@
+// Settings for User Luca Fülbier
+{
+    // EDITOR SETTINGS
+
+    "files.exclude": {
+        // Version Control
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true
+    },
+
+    "editor.minimap.enabled": false,
+
+    // LANGUAGE SETTINGS
+
+    "[elixir]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    }
+}
